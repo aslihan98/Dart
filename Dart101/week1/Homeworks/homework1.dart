@@ -9,7 +9,6 @@ void main() {
   print('Your balance:'+' '+userMoney.toString());
 
 
-
 }
 
 
